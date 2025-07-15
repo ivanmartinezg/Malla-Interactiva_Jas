@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.node {
+  margin-left: 20px;
+  cursor: pointer;
+  color: #2c3e50;
+}
+
+.node:hover {
+  color: #2980b9;
+}
